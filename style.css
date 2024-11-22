@@ -1,0 +1,21 @@
+thead{
+    font-size: larger;
+    background-color: beige;
+}
+td.days{
+    background-color: beige;
+    font-size: large;
+    font-weight: bold;
+}
+
+td.Forms.Tutors2{ writing-mode: vertical-lr;
+    font-size:40px;
+    text-align: center;
+}
+table{
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+}
